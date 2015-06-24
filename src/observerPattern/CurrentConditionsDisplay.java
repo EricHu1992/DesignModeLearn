@@ -1,4 +1,4 @@
-package ObserverMode;
+package observerPattern;
 
 public class CurrentConditionsDisplay implements Observer,DisplayElement{
 

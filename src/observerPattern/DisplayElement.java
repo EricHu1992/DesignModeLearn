@@ -1,4 +1,4 @@
-package ObserverMode;
+package observerPattern;
 
 public interface DisplayElement {
 	

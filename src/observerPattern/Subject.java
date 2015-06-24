@@ -1,4 +1,4 @@
-package ObserverMode;
+package observerPattern;
 /**
  * 
  * @author Eric
